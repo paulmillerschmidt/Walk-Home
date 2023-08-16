@@ -4,10 +4,6 @@
 
 ## Usage
 
-### Deployment
-
-*WalkHome* is deployed at <a href="https://yaleswe-backup.firebaseapp.com" target="_blank">https://yaleswe-backup.firebaseapp.com</a>
-
 ### Local Build Setup
 
 ```bash
